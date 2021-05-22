@@ -11,3 +11,6 @@ Everytime I am doing a box in htb I find my self drowning the amount of terminal
 
 # Is it just for me ?
 That's how it started to create it and keep it for me since it's not something amazing of a tools but maybe someone will find some use out of it so here it is. If you want it take it. I am looking to add more fanctionality in the future (powershell payloads, msfvenom etc.) but for now I added just the ones that I use the most. If you have a suggestion or you want to add a payload you can do it or just create an Issue and I will add it.
+
+## References
+> The original repo: [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
